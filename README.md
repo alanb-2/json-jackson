@@ -13,7 +13,7 @@ All commands are run from the project root in a CLI.
 
 2. Execute the application
     ```shell
-    java -cp target/json-jackson-${version}.jar
+    java -cp target/json-jackson-${version}.jar uk.org.aeb.json.jackson.Main
     ```
     where the JAR `${version}` can be found in the [pom.xml](pom.xml)
 
